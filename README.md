@@ -1,7 +1,3 @@
-﻿   ⬇️⚠️ JANGAN LUPA KLIK LINK DIBAWAH INI⚠️⬇️
-
- https://youtube.com/channel/UCqK3KOcJI1dmbyuiTIzlKIA?sub_confirmation=1
-
 + RDP Windows Gratis 6 Jam
 
 + Buat RDP Windows 10 Ram 7GB 2 Core Cpu Dengan Github:
@@ -14,11 +10,7 @@
 
 + isi Nama: Masukan NGROK_AUTH_TOKEN
 
-+ isi Value: Kunjungi https://dashboard.ngrok.com/auth/your-authtoken Copy Dan Paste di dalam value
-
 + Tekan Add secret
-
-+ Pergi Ke Action <Klik Select workflow< Pilih Har Pito,Pencet Run workflow
 
 + Refresh Web/halaman dan masuk ke Har Pito> klik build
 
